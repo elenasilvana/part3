@@ -1,0 +1,7 @@
+input:focus {
+  border-color: gray;
+}
+
+.form-fields {
+  padding: 10px 0;
+}
